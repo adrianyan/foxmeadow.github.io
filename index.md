@@ -4,4 +4,4 @@
 
 ## Impacted Area
 
-![](impacted_area.jpeg?raw=true)
+![Impacted Area](impacted_area.jpg?raw=true)
